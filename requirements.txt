@@ -1,0 +1,7 @@
+python-telegram-bot
+requests
+beautifulsoup4
+lxml
+EbookLib
+cloudscraper
+Flask
